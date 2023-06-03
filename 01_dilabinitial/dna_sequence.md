@@ -17,6 +17,15 @@ In the 1950s, Fred Sanger pioneered the determination of the first protein seque
 
 As a departure from electrophoretic sequencing, the rise of next-generation DNA sequencing (NGS) technology, also known as massively parallel sequencing, significantly supplanted the utilization of Sanger sequencing employed during the Human Genome Project[^6]. From 2007 to 2012, a number of platforms, including 454, Agencourt, Ion Torrent, and Solexa (later acquired by Illumina), fiercely competed in the NGS arena[^7]. This intense competition led to a remarkable reduction in the per-base cost of DNA sequencing by four orders of magnitude[^8].
 
+| ![](assets/Figure_1.png)|
+|:--:|
+| <small>Figure 1: Sequencing Cost per GB since 2001</small>|
+
+
+| ![](assets/Figure_2.png)|
+|:--:|
+| <small>Figure 2: Sequencing Cost per Genome since 2001</small>|
+
 Since 2012, the progress in DNA sequencing technology has experienced a slowdown as Illumina has established dominance[^9]. With the advent of the Illumina NovaSeq instrument, a single graduate student can now generate over a billion independent reads, amounting to a terabase of sequence, in just two days, all at a cost of only a few hundreds dollars[^2][^10]. 
 
 ## Modern technology of DNA sequence

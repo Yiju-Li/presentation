@@ -12,3 +12,5 @@
 ### Arise of Deep Neural Nertwork
 
 ### Current Use of DNN in the application of DNA sequence
+
+Title: A comprehensive review on DNA sequence. 
