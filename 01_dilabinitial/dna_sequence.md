@@ -19,12 +19,12 @@ As a departure from electrophoretic sequencing, the rise of next-generation DNA 
 
 | ![](assets/Figure_1.png)|
 |:--:|
-| <small>Figure 1: Sequencing Cost per GB since 2001</small>|
+| <small>Figure 1: Sequencing Cost per GB since 2001</small> [^9]|
 
 
 | ![](assets/Figure_2.png)|
 |:--:|
-| <small>Figure 2: Sequencing Cost per Genome since 2001</small>|
+| <small>Figure 2: Sequencing Cost per Genome since 2001</small> [^9]|
 
 Since 2012, the progress in DNA sequencing technology has experienced a slowdown as Illumina has established dominance[^9]. With the advent of the Illumina NovaSeq instrument, a single graduate student can now generate over a billion independent reads, amounting to a terabase of sequence, in just two days, all at a cost of only a few hundreds dollars[^2][^10]. 
 
