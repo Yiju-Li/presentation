@@ -1,7 +1,7 @@
 # A Brief Review of DNA Sequencing
 
 ## Abstract
-This review provides a concise overview of the evolutionary trajectory of DNA sequencing technology over the past 45 years. Additionally, this article briefly discusses the modern technologies and methods employed in DNA sequencing, specifically focusing on those utilized on the Illumina platform. Furthermore, the review offers insights into the anticipated resurgence of competition within the field of DNA sequencing.
+This review presents a brief summary of the historical progression of DNA sequencing technology spanning 45 years. It also provides a succinct examination of contemporary methodologies and technologies employed in DNA sequencing, with particular emphasis on those utilized within the Illumina platform. Notably, the review sheds light on the forthcoming reinvigoration of competition in the field of DNA sequencing, which holds the potential to reignite the pace of technological advancements.
 
 ## Significance of DNA sequence
 The arrangement of nucleic acids in polynucleotide chains carries the essential information governing the hereditary and biochemical characteristics of life on Earth[^3]. 
@@ -48,7 +48,12 @@ Illumina sequencing by synthesis (SBS) chemistry dominates the field, responsibl
 | <small>Figure 6: Data Analysis</small> [^13]|
 
 
+## Future Development
+After a period of almost ten years during which short reads from Illumina dominated DNA sequencing, PacBio has made substantial progress in the field. They have introduced the Onso system, an innovative benchtop platform for short-read DNA sequencing that delivers exceptional accuracy[^14]. Furthermore, PacBio has developed the Revio system, which enables high-throughput sequencing with long reads that exhibit a remarkable level of accuracy[^16]. These advancements are particularly significant given the apparent limitations in options for future discoveries using short reads[^17].
 
+In order to address this competitive landscape, Illumina has undertaken strategic initiatives. They have made preparations for the introduction of novel products, encompassing an ultra-high-throughput production-scale instrument, alongside an advanced sequencing chemistry that surpasses the speed and accuracy of their existing kits[^10]. Notably, Illumina has unveiled their inaugural offering, enabling the concurrent sequencing of long and short reads on a singular instrument[^15].
+
+Considering the rapid succession of these developments within a span of less than six months, it is plausible to anticipate that the year 2023 will witness a resurgence in the acceleration of DNA sequencing technology. The emergence of long-awaited competition in the industry after a prolonged period of relative stability suggests a renewed momentum and innovation in the field. As a result, the foreseeable future holds promising prospects for further advancements and breakthroughs in DNA sequencing technology.
 
 
 ## References
@@ -79,3 +84,11 @@ Illumina sequencing by synthesis (SBS) chemistry dominates the field, responsibl
 [^12]: Bentley, David R., Shankar Balasubramanian, Harold P. Swerdlow, Geoffrey P. Smith, John Milton, Clive G. Brown, Kevin P. Hall, et al. “Accurate Whole Human Genome Sequencing Using Reversible Terminator Chemistry.” Nature 456, no. 7218 (November 2008): 53–59. https://doi.org/10.1038/nature07517.
 
 [^13]: “An Introduction to Next-Generation Sequencing Technology,” n.d.
+
+[^14]: PacBio. “Onso Sequencing System.” Accessed June 3, 2023. https://www.pacb.com/onso/.
+
+[^15]: “Illumina Launches Its First Product Enabling Long- and Short-Read Sequencing on One Instrument.” Accessed June 3, 2023. https://investor.illumina.com/news/press-release-details/2023/Illumina-launches-its-first-product-enabling-long--and-short-read-sequencing-on-one-instrument/default.aspx.
+
+[^16]: Sullivan, Michael. “HiFi Whole Genomes Could One Day Replace Short-Read Genome and Exome Sequencing.” PacBio, April 27, 2023. https://www.pacb.com/blog/medical-genomics/.
+
+[^17]: Orellana, Luis H., Karen Krüger, Chandni Sidhu, and Rudolf Amann. “Comparing Genomes Recovered from Time-Series Metagenomes Using Long- and Short-Read Sequencing Technologies.” Microbiome 11, no. 1 (May 13, 2023): 105. https://doi.org/10.1186/s40168-023-01557-3.
