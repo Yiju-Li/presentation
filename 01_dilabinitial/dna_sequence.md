@@ -29,9 +29,25 @@ As a departure from electrophoretic sequencing, the rise of next-generation DNA 
 Since 2012, the progress in DNA sequencing technology has experienced a slowdown as Illumina has established dominance[^9]. With the advent of the Illumina NovaSeq instrument, a single graduate student can now generate over a billion independent reads, amounting to a terabase of sequence, in just two days, all at a cost of only a few hundreds dollars[^2][^10]. 
 
 ## Modern technology of DNA sequence
+Illumina sequencing by synthesis (SBS) chemistry dominates the field, responsible for generating over 80 percent of the world's sequencing data. This technique offers exceptional precision and produces a substantial quantity of error-free reads[^12].
 
+The Illumina Next-Generation Sequencing (NGS) workflows encompass four fundamental steps: Library Preparation, Cluster Generation, Sequencing and Data Analysis[^13]. 
 
+| ![](assets/Figure_3.png)|
+|:--:|
+| <small>Figure 3: Library Preparation</small> [^9]|
 
+| ![](assets/Figure_4.png)|
+|:--:|
+| <small>Figure 3: Library Preparation</small> [^9]|
+
+| ![](assets/Figure_5.png)|
+|:--:|
+| <small>Figure 3: Library Preparation</small> [^9]|
+
+| ![](assets/Figure_6.png)|
+|:--:|
+| <small>Figure 3: Library Preparation</small> [^9]|
 
 ## References
 
@@ -57,3 +73,7 @@ Since 2012, the progress in DNA sequencing technology has experienced a slowdown
 [^10]: Eisenstein, Michael. “Illumina Faces Short-Read Rivals.” Nature Biotechnology 41, no. 1 (January 1, 2023): 3–5. https://doi.org/10.1038/s41587-022-01632-4.
 
 [^11]: Nazeha, Nuraini, Ai Ling Koh, Sylvia Kam, Jiin Ying Lim, Denise Li Meng Goh, Saumya Shekhar Jamuar, and Nicholas Graves. “Reduced Resource Utilization with Early Use of Next-Generation Sequencing in Rare Genetic Diseases in an Asian Cohort.” American Journal of Medical Genetics Part A 188, no. 12 (2022): 3482–91. https://doi.org/10.1002/ajmg.a.62974.
+
+[^12]: Bentley, David R., Shankar Balasubramanian, Harold P. Swerdlow, Geoffrey P. Smith, John Milton, Clive G. Brown, Kevin P. Hall, et al. “Accurate Whole Human Genome Sequencing Using Reversible Terminator Chemistry.” Nature 456, no. 7218 (November 2008): 53–59. https://doi.org/10.1038/nature07517.
+
+[^13]: “An Introduction to Next-Generation Sequencing Technology,” n.d.
