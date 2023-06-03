@@ -35,19 +35,23 @@ The Illumina Next-Generation Sequencing (NGS) workflows encompass four fundament
 
 | ![](assets/Figure_3.png)|
 |:--:|
-| <small>Figure 3: Library Preparation</small> [^9]|
+| <small>Figure 3: Library Preparation</small>[^13]|
 
 | ![](assets/Figure_4.png)|
 |:--:|
-| <small>Figure 4: Cluster Generation</small> [^9]|
+| <small>Figure 4: Cluster Generation</small>[^13]|
 
 | ![](assets/Figure_5.png)|
 |:--:|
-| <small>Figure 5: Sequencing</small> [^9]|
+| <small>Figure 5: Sequencing</small>[^13] |
 
 | ![](assets/Figure_6.png)|
 |:--:|
-| <small>Figure 6: Data Analysis</small> [^9]|
+| <small>Figure 6: Data Analysis</small> [^13]|
+
+
+
+
 
 ## References
 
