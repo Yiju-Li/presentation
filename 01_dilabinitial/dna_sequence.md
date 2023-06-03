@@ -1,7 +1,16 @@
-# DNA Sequence
+# A Brief Review of DNA Sequencing
+
+## Abstract
+This review provides a concise overview of the evolutionary trajectory of DNA sequencing technology over the past 45 years. Additionally, this article briefly discusses the modern technologies and methods employed in DNA sequencing, specifically focusing on those utilized on the Illumina platform. Furthermore, the review offers insights into the anticipated resurgence of competition within the field of DNA sequencing.
 
 ## Significance of DNA sequence
-The arrangement of nucleic acids in polynucleotide chains carries the essential information governing the hereditary and biochemical characteristics of life on Earth[^3]. Given the significance of this sequence, scientists seek a cost-effective and time-efficient DNA sequencing technology to unravel its complexities[^1].
+The arrangement of nucleic acids in polynucleotide chains carries the essential information governing the hereditary and biochemical characteristics of life on Earth[^3]. 
+
+The clinical implementation of DNA sequencing, particularly whole exome sequencing (WES) and whole genome sequencing (WGS), has greatly improved the diagnostic potential for identifying potential Mendelian or other genetic disorders in patients. By sequencing the exome, which includes the protein-coding regions of the genome, healthcare providers can identify genetic variations linked to various diseases, thus facilitating precise and accurate diagnoses[^11].
+
+Furthermore, DNA sequencing is significantly influencing clinical cancer care through various means. Firstly, it aids in suggesting targeted therapies by analyzing the specific mutations present in an individual's cancer. This personalized approach allows for more effective treatment strategies. Secondly, DNA sequencing enables non-invasive diagnosis or monitoring by examining circulating cells or cell-free DNA released by tumors. This method provides valuable information for assessing the progress of the disease and evaluating treatment responses. Lastly, sequencing helps identify cancer-specific mutations that alter proteins, potentially serving as neoantigens for personalized vaccine development. While success stories in these areas may currently be limited, considering the overall burden of cancer, notable progress is undoubtedly being made.[^2]
+
+Given the significance of this sequence, scientists seek a cost-effective and time-efficient DNA sequencing technology to unravel its complexities[^1].
 
 ## Development of DNA sequence
 In the 1950s, Fred Sanger pioneered the determination of the first protein sequence, specifically Insulin, using a somewhat cumbersome approach[^4][^5]. Over the following 70 years, scientists made significant advancements in DNA sequencing, scaling it up to the human genome and ultimately developing massively parallel DNA sequencing techniques[^2].
@@ -10,10 +19,7 @@ As a departure from electrophoretic sequencing, the rise of next-generation DNA 
 
 Since 2012, the progress in DNA sequencing technology has experienced a slowdown as Illumina has established dominance[^9]. With the advent of the Illumina NovaSeq instrument, a single graduate student can now generate over a billion independent reads, amounting to a terabase of sequence, in just two days, all at a cost of only a few hundreds dollars[^2][^10]. 
 
-## Clinical Application of DNA sequence
-The utilization of whole exome sequencing (WES) and whole genome sequencing (WGS) has significantly enhanced the diagnostic capabilities for potential Mendelian or other genetic disorders in patients. By sequencing the exome, which encompasses the protein-coding regions of the genome, healthcare professionals can detect genetic variations associated with diseases, thereby assisting in establishing an accurate diagnosis[^11].
-
-Furthermore, DNA sequencing is significantly influencing clinical cancer care through various means. Firstly, it aids in suggesting targeted therapies by analyzing the specific mutations present in an individual's cancer. This personalized approach allows for more effective treatment strategies. Secondly, DNA sequencing enables non-invasive diagnosis or monitoring by examining circulating cells or cell-free DNA released by tumors. This method provides valuable information for assessing the progress of the disease and evaluating treatment responses. Lastly, sequencing helps identify cancer-specific mutations that alter proteins, potentially serving as neoantigens for personalized vaccine development. While success stories in these areas may currently be limited, considering the overall burden of cancer, notable progress is undoubtedly being made.[^2]
+## Modern technology of DNA sequence
 
 
 
