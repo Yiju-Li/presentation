@@ -26,10 +26,7 @@ As a departure from electrophoretic sequencing, the rise of next-generation DNA 
 |:--:|
 | <small>Figure 2: Sequencing Cost per Genome since 2001</small> [^9]|
 
-Since 2012, the progress in DNA sequencing technology has experienced a slowdown as Illumina has established dominance[^9]. With the advent of the Illumina NovaSeq instrument, a single graduate student can now generate over a billion independent reads, amounting to a terabase of sequence, in just two days, all at a cost of only a few hundreds dollars[^2][^10]. 
-
-## Modern technology of DNA sequence
-Illumina sequencing by synthesis (SBS) chemistry dominates the field, responsible for generating over 80 percent of the world's sequencing data. This technique offers exceptional precision and produces a substantial quantity of error-free reads[^12]. The Illumina Next-Generation Sequencing (NGS) workflows encompass four fundamental steps: Library Preparation, Cluster Generation, Sequencing and Data Analysis[^13]. 
+Since 2012, the progress in DNA sequencing technology has experienced a slowdown as Illumina has established dominance[^9]. With the advent of the Illumina NovaSeq instrument, a single graduate student can now generate over a billion independent reads, amounting to a terabase of sequence, in just two days, all at a cost of only a few hundreds dollars[^2][^10]. This technique offers exceptional precision and produces a substantial quantity of error-free reads[^12]. The Illumina Next-Generation Sequencing (NGS) workflows encompass four fundamental steps: Library Preparation, Cluster Generation, Sequencing and Data Analysis[^13]. 
 
 | ![](assets/Figure_3.png)|
 |:--:|
