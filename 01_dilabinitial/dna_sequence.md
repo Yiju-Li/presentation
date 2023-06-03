@@ -18,7 +18,7 @@ Furthermore, DNA sequencing is significantly influencing clinical cancer care th
 
 
 
-
+## References
 
 [^1]: Heather, James M., and Benjamin Chain. “The Sequence of Sequencers: The History of Sequencing DNA.” Genomics 107, no. 1 (January 2016): 1–8. https://doi.org/10.1016/j.ygeno.2015.11.003.
 
