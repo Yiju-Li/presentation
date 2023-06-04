@@ -44,11 +44,11 @@ Residual CNNs, also known as ResNets, were introduced to address the problem of 
 
 | ![](assets/Figure_10.png)|
 |:--:|
-| <small>Figure 4: Architecture of ExpResNet</small>|
+| <small>Figure 3: Architecture of ExpResNet</small>|
 
 | ![](assets/Figure_11.png)|
 |:--:|
-| <small>Figure 5: Detail of Residual Module</small>|
+| <small>Figure 4: Detail of Residual Module</small>|
 
 
 ### Dilated CNNs
@@ -56,7 +56,7 @@ Dilated CNNs, also known as atrous convolution, introduce dilation rates to the 
 
 | ![](assets/Figure_12.png)|
 |:--:|
-| <small>Figure 6: Architecture of Basenji</small>|
+| <small>Figure 5: Architecture of Basenji</small>|
 
 ## Treat as Sequential Data
 While convolutional neural networks (CNNs) excel at capturing local features in data, they have limitations in learning hidden relationships within sequential data. In contrast, recurrent neural networks (RNNs) and their variants are more powerful tools for processing sequential data. The design of RNNs allows them to capture the time dependencies in data by maintaining an internal state and passing it as input to the next time step.
@@ -66,13 +66,13 @@ However, traditional RNNs encounter the vanishing or exploding gradient problem 
 
 | ![](assets/Figure_13.png)|
 |:--:|
-| <small>Figure 7: Architecture of DeepSite</small>|
+| <small>Figure 6: Architecture of DeepSite</small>|
 
 Nevertheless, the straightforward approach of stacking CNN and LSTM networks lacks optimization as it fails to fully exploit the strengths inherent in each architecture. To address this limitation, a more enhanced method is proposed in this model. Instead of sequential stacking, the proposed method involves running these two units in parallel, utilizing encoded DNA as the input for both architectures.
 
 | ![](assets/Figure_14.png)|
 |:--:|
-| <small>Figure 8: Architecture of Deep6mAPred</small>|
+| <small>Figure 7: Architecture of Deep6mAPred</small>|
 
 ### Transformer
 
@@ -82,7 +82,7 @@ Unlike traditional CNNs that rely on convolutional filters, Transformers utilize
 
 | ![](assets/Figure_9.png)|
 |:--:|
-| <small>Figure 3: Architecture of Enformer</small>|
+| <small>Figure 8: Architecture of Enformer</small>|
 
 
 
