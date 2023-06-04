@@ -43,10 +43,6 @@ Expanding upon the foundation of the simple CNN model, the integration of additi
 #### Transformers
 Transformers have gained significant attention in natural language processing tasks, but their potential in genetics is also worth exploring. Unlike traditional CNNs that rely on convolutional filters, Transformers utilize a self-attention mechanism to capture dependencies and relationships between DNA sequence elements. This allows the model to effectively learn long-range dependencies, which can be crucial in genetic analysis, where distant regions of DNA may interact or have functional significance. By incorporating Transformer layers into the CNN model, we can potentially improve the model's ability to capture complex genetic patterns and interactions.
 
-| ![](assets/Figure_9.png) |
-|:--:| 
-| <small>Figure 3: Architecture of Enformer</small>|
-
 | ![](assets/Figure_9.png)|
 |:--:|
 | <small>Figure 3: Architecture of Enformer</small>|
