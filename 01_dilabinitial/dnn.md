@@ -50,6 +50,15 @@ Transformers have gained significant attention in natural language processing ta
 #### Residual CNNs
 Residual CNNs, also known as ResNets, were introduced to address the problem of vanishing gradients and facilitate the training of deep networks. In genetics, where the DNA sequences can be extremely long and contain subtle patterns, deep networks can be beneficial. By adding residual connections, which bypass certain convolutional layers, the gradients can flow more easily, enabling better propagation of information throughout the network. This can result in improved feature extraction and better modeling of complex genetic relationships.
 
+| ![](assets/Figure_10.png)|
+|:--:|
+| <small>Figure 4: Architecture of ExpResNet</small>|
+
+| ![](assets/Figure_11.png)|
+|:--:|
+| <small>Figure 5: Detail of Residual Module</small>|
+
+
 #### Dilated Residual or Dilated CNNs
 Dilated CNNs, also known as atrous convolution, introduce dilation rates to the convolutional layers. This technique allows the receptive field of the network to grow exponentially without increasing the number of parameters or spatial dimensions. Dilated CNNs have shown promising results in various image analysis tasks, and their application in genetics can be advantageous as well. By using dilated convolutions, the model can capture multi-scale features present in the DNA sequence, which is essential when analyzing genetic data with varying levels of resolution. Combining dilated convolutions with residual connections further enhances the model's capacity to extract meaningful features at different scales.
 
