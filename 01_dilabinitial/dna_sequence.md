@@ -1,7 +1,7 @@
 # A Brief Review of DNA Sequencing
 
-## Abstract
-This review presents a brief summary of the historical progression of DNA sequencing technology spanning 45 years. It also provides a succinct examination of contemporary methodologies and technologies employed in DNA sequencing, with particular emphasis on those utilized within the Illumina platform. Notably, the review sheds light on the forthcoming reinvigoration of competition in the field of DNA sequencing, which holds the potential to reignite the pace of technological advancements.
+
+>This review presents a brief summary of the historical progression of DNA sequencing technology spanning 45 years. It also provides a succinct examination of contemporary methodologies and technologies employed in DNA sequencing, with particular emphasis on those utilized within the Illumina platform. Notably, the review sheds light on the forthcoming reinvigoration of competition in the field of DNA sequencing, which holds the potential to reignite the pace of technological advancements.
 
 ## Significance of DNA sequence
 The arrangement of nucleic acids in polynucleotide chains carries the essential information governing the hereditary and biochemical characteristics of life on Earth[^3]. 
